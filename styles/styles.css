@@ -40,11 +40,6 @@ header > .image.md {
     overflow: hidden;
 }
 
-header > .image.icon {
-    height: 30px;
-    margin-right: 15px;
-}
-
 header > .image > img, svg {
     height: 100%;
     width: auto;
